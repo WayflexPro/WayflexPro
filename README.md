@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎀 Professional femboy, part-time web developer.<br>✨ Making software that runs (most of the time) 💻<br>💖 Loves debugging... until I don’t.<br>🛠️ "If it compiles, ship it. If it doesn’t, it’s a feature." 😈</p>
+<p align="left">🎀 Professional femboy, part-time software/web developer.<br>✨ Making software that runs (most of the time) 💻<br>💖 Loves debugging... until I don’t.<br>🛠️ "If it compiles, ship it. If it doesn’t, it’s a feature." 😈</p>
 
 ###
 
